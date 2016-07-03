@@ -1,1 +1,1 @@
-# FunctionalProgrammingScala
+# Functional Programming In Scala
